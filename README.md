@@ -1,39 +1,23 @@
-# Talk-your-Doc
-TalkYourDoc Project Overview
+TalkYourDoc is a comprehensive doctor-patient management application designed to streamline appointment scheduling, profile management, and blood donor information access.
 
-TalkYourDoc is a comprehensive doctor-patient interaction platform designed to streamline healthcare communication and appointment management.
-
-- Patient Features:
-
-1. Patient registration and secure login
-
-2. Book appointments with doctors based on availability
-
-3. View current and past appointment history
-
-4. Update personal profile information
-
-5. Access a list of available blood donors, searchable and filterable by blood group
-
-- Doctor Onboarding and Features:
-
-1. Doctors are added to the platform by the administrator upon request
-
-2. To be added, doctors must email the administrator using the contact details provided on the Contact page
-
-3. Once added, doctors receive their login credentials (email ID and password) from the admin
-
-- Doctors can:
-
-1. View current and past appointments
-
-2. Manage their availability by setting preferred time slots
-
-3. Update their profile information
-
-- Admin Features:
-
-1. Add and manage doctor and blood donor profiles
-
-2. View and manage lists of doctors, patients, and blood donors
+🩺 Features 
+🔹 Patient Functionality
+1. User registration and login
+2. Book appointments with available doctors
+3. View upcoming and past appointments
+4. Update personal profile
+5. Search and view available blood donors, filterable by blood group
+🔹 Doctor Functionality
+1. Doctors are added by the admin upon request (contact details available on the Contact page)
+2. Login credentials are provided by the admin post-verification
+3. View current and past appointments
+4. Add available appointment slots
+5. Update doctor profile
+🔹 Admin Functionality
+1. Add and manage doctors and blood donors
+2.View and manage lists of doctors, patients, and donors
+📩 Doctor Registration 
+Doctors who wish to join the platform must email the administrator. 
+Contact information is available on the Contact page. 
+Once verified, the admin will create a doctor account and provide login credentials.
 
